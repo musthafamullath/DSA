@@ -21,3 +21,5 @@ void main(List<String> args) {
   int result = binarySearchFromList(list, target);
   print("element $target found from index $result");
 }
+
+
